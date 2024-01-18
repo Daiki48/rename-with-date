@@ -6,7 +6,7 @@ version = "0.1.1"
 authors = ["Daiki Nakashima <daiki48.engineer@gmail.com"]
 license = "MIT"
 readme = "README.md"
-categories = ["CLI", "TOOL"]
+categories = ["command-line-utilities"]
 edition = "2021"
 
 [badges]
