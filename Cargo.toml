@@ -2,7 +2,7 @@
 name = "rename-with-date"
 description = "Add the current date and time to the beginning of the file name."
 repository = "https://github.com/Daiki48/rename-with-date"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Daiki Nakashima <daiki48.engineer@gmail.com"]
 license = "MIT"
 readme = "README.md"
