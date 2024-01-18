@@ -1,7 +1,7 @@
 [package]
 name = "rename-with-date"
 description = "Add the current date and time to the beginning of the file name."
-repository = ""
+repository = "https://github.com/Daiki48/rename-with-date"
 version = "0.1.0"
 authors = ["Daiki Nakashima <daiki48.engineer@gmail.com"]
 license = "MIT"
