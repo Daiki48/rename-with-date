@@ -1,0 +1,16 @@
+[package]
+name = "rename-with-date"
+description = "Add the current date and time to the beginning of the file name."
+repository = ""
+version = "0.1.0"
+authors = ["Daiki Nakashima <daiki48.engineer@gmail.com"]
+license = "MIT"
+readme = "README.md"
+categories = ["CLI", "TOOL"]
+edition = "2021"
+
+[badges]
+github = { repository = "Daiki48/rename-with-date", workflow = "Rust" }
+
+[dependencies]
+chrono = "0.4"
